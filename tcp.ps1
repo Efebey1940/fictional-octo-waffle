@@ -1,1 +1,1 @@
-& "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AVG7fiTM11gTpVPsFcLqWbTRdKsIaSsR25hgemgT2asbDhlCj2ond4DakdHBHgoCeyNUOQ" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=GhVPS6Hours --pin=123456
+& "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AVG7fiTiSJ2wuEW3Eh7_PMfqNIvNg7tbPt5b6oy1GrDkmS0dmRs0JDnHdIQniDjmO7QpJg" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$Env:COMPUTERNAME --pin=123456
